@@ -12,13 +12,13 @@ We acknowledged our use of the UCI HAR dataset:
 > Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012.
 
 ### The dataset includes the following files
-* [**Tidy-UCI-HAR-Dataset.txt**:] (https://github.com/libraguysgp/Getting-and-Cleaning-Data-Course-Assignment/Tidy-UCI-HAR-Dataset.txt) 
+* [**Tidy-UCI-HAR-Dataset.txt**:] (https://github.com/libraguysgp/Getting-and-Cleaning-Data-Course-Assignment/blob/master/Tidy-UCI-HAR-Dataset.txt) 
     * The tidy subset of the UCI HAR data set. Provided for convenience. It can by reproduced exactly by running the run_analysis.R script.
-* [**CodeBook.md**:] (https://github.com/libraguysgp/Getting-and-Cleaning-Data-Course-Assignment/CodeBook.md)
+* [**CodeBook.md**:] (https://github.com/libraguysgp/Getting-and-Cleaning-Data-Course-Assignment/blob/master/CodeBook.md)
     * Information about all columns in the data set including portions of the original code book and a full description of our transformation and summarizing of the original data set to produce our tidy data set.
-* [**README.md**:] (https://github.com/libraguysgp/Getting-and-Cleaning-Data-Course-Assignment/README.md)
+* [**README.md**:] (https://github.com/libraguysgp/Getting-and-Cleaning-Data-Course-Assignment/blob/master/README.md)
     * This document which explains what the analysis file does. 
-* [**run_analysis.R**:] (https://github.com/libraguysgp/Getting-and-Cleaning-Data-Course-Assignment/run_analysis.R) 
+* [**run_analysis.R**:] (https://github.com/libraguysgp/Getting-and-Cleaning-Data-Course-Assignment/blob/master/run_analysis.R) 
     * Source code in R for our transformation of the UCI HAR data set into our tidy data set.
 
 ### The instruction list - how the script works
